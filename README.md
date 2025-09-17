@@ -1,3 +1,5 @@
+<img width="2880" height="1800" alt="chatbot" src="https://github.com/user-attachments/assets/9b57b099-f018-439a-9e63-4f349adfd432" />
+
 # 🧑‍💻 AI Chatbot (Made by Varun Chavan 🚀)
 
 This is a custom AI chatbot built using **FastAPI + Ollama (backend)** and **HTML/CSS/JS (frontend)**.  
