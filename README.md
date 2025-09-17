@@ -11,3 +11,6 @@ It streams responses in real time, supports Markdown, and allows code copy like 
 - ✅ Runs locally – private & free
 
 ## 📂 Project Structure
+my-chatbot/
+├── backend/ → FastAPI server
+├── frontend/ → Chat UI
