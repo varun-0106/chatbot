@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ollama
+
+
+That way, anyone can install with:
+pip install -r backend/requirements.txt
+
+
+Run backend with:
+uvicorn main:app --reload
